@@ -1,0 +1,7 @@
+{
+  "name": "Metriplectic Aureo-ZPinch Analyzer",
+  "description": "A scientific visualization dashboard for analyzing metriplectic systems with Golden Ratio (Phi) influenced Z-Pinch plasma dynamics and rotor detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
